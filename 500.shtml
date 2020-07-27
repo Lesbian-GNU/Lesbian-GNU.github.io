@@ -1,0 +1,12 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<HEAD>
+<TITLE>500 Внутренняя ошибка сервера</TITLE>
+</HEAD><BODY>
+<H1>Внутренняя ошибка сервера</H1>
+На сервере произошла внутренняя ошибка или он не смог выполнить ваш запрос
+<HR>
+<I><!--#echo var="HTTP_HOST" --></I>
+</BODY></HTML>
